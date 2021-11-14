@@ -1,0 +1,1070 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header1{
+        padding-top: -45px;   
+}
+.nav-link{
+    font-size: 17px;
+}
+.logo1{
+    padding-right: 820px;
+
+}
+
+.slogan{
+    text-align: center;                    
+    word-spacing: 5px;
+    padding-top: 10px;
+    /* background-color: gray; */
+    background-image: linear-gradient( rgba(255, 255, 255, 0.747) 50%,rgb(26, 24, 24) 50%) ;
+    color: rgb(0, 0, 0);
+
+}
+.logodes{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: rgb(255, 255, 255);
+}
+.logoname{
+    padding-top: 0px;
+    line-height: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.myMargin{
+    margin: 50px;
+}
+
+
+/* footer */
+footer{
+    background-color: rgb(73, 73, 73);
+    color: white;
+    height:30px;
+    margin-bottom: -48px;
+    margin-top: 3000px;
+    margin-left: -65px;
+    margin-right: -75px;
+    padding-top: 5px;
+    
+}
+
+footer h6{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    
+}
+
+.footerdistrict{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    background-color: rgb(73, 73, 73);
+    color: white;
+    height:30px;
+    margin-bottom: -48px;
+    margin-top: 150px;
+    margin-left: -65px;
+    margin-right: -75px;
+    padding-top: 5px;
+}
+
+
+.ayurlabel{
+    
+    text-align: start;
+    margin-left: 150px;
+    padding-left: 370px;
+    padding-bottom: 10px; 
+    background-image:linear-gradient(#816337 90% , white 10%)
+}  
+  
+.ayurslogan{
+
+    color: black;
+    margin-left: 300px;
+    padding-left: 240px;
+    background-image: linear-gradient(white,white)
+
+    
+}
+
+.caravanlabel{
+    padding-top: -5px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    background-image:linear-gradient(#000000 95% , white 5%)
+
+}
+
+.caravanslogan{
+    color: black;
+    margin-left: 200px;
+    margin-top: -8px;
+    padding-left: 275px;
+    padding-bottom: 5px;
+
+    background-image:linear-gradient(#ffffff 92% , rgb(255, 136, 0) 8%)
+
+}
+
+.houseboatlabel{
+    margin-left: -500px;
+    margin-bottom: 10px;
+    margin-right: 300px;
+    padding-left: 200px;
+    font-family: 'ABeeZee', sans-serif;
+    background-image:linear-gradient(#000000 98% , white 2%)
+}
+
+.placelabel{
+    color: black;
+}
+
+.houseboatslogan{
+    color: rgb(0, 0, 0);
+    border-style: groove; 
+    border-radius: 10px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-width: 1px;
+    background-image:linear-gradient(90deg, #e5ff00 20% , white 80% )
+}
+
+.districts{
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: underline;
+
+}
+
+.card{
+    margin-top: 80px;
+    padding-top: 10px;
+    border-style: groove;
+    border-radius: 40px;
+    border-width: .2em;
+    border-color: maroon;
+    float: left;
+    margin-left: 10px;
+
+}
+#kannur{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    
+}
+
+#kasaragode{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-bottom: 24px;
+}
+
+#kollam{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+}
+
+#kottayam{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    padding-bottom: -50px;
+   
+}
+#kozhikode{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 8px;
+    padding-bottom: -50px; 
+    margin-bottom: 60px;
+}
+
+
+#malappuram{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    padding-bottom: -50px;
+    height: 170px; 
+    margin-bottom: 23px;  
+}
+
+#palakkad{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    padding-bottom: -50px; 
+    margin-bottom: 55px;
+    
+}
+
+#pathanamthitta{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    padding-bottom: -50px; 
+    height: 170px;
+    
+}
+
+#thiruvananthapuram{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    height: 170px;
+}
+
+
+#thrissur{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    height: 170px;
+}
+
+#wayanad{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    height: 170px;
+}    
+
+#idukki{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    height: 170px;
+} 
+
+#ernakulam{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    height: 170px;
+}
+
+#alappuzha{
+    border-style: groove;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    height: 170px;
+} 
+
+/* DISTRICTS HEADINGS */
+
+/* alappuzha */
+
+.headalappuzha{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textalappuzha{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.desalappuzha{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtala img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+.line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg);
+
+    /* end alappuzha */
+    
+}
+
+.myMargin{
+    margin-top: 30px;
+    
+}
+
+.carousel-item img{
+    border-style: groove;
+    border-radius: 20px;
+}
+.carousalslogan{
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 5px;
+    background-image: linear-gradient(90deg, rgba(8, 8, 8, 0.849) 95%,rgba(255, 136, 0, 0.801) 5%);
+    letter-spacing: 5px;
+       
+}
+
+#carousaldes{
+    color: black;
+    background:blanchedalmond;
+    font-weight: 400;
+    border-style: groove;
+    border-width: .15em;
+    border-radius: 30px;
+    border-color: rgb(243, 65, 1);
+}
+
+.carousalslogan1{
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 5px;
+    background-image: linear-gradient(90deg, rgba(8, 8, 8, 0.849) 95%,rgba(255, 136, 0, 0.801) 5%);
+    letter-spacing: 2px;
+}
+
+#carousaldes1{
+    color: black;
+    background:blanchedalmond;
+    font-weight: 400;
+    border-style: groove;
+    border-width: .15em;
+    border-radius: 20px;
+    border-color: rgb(243, 65, 1);
+}    
+
+.carousalslogan2{
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 5px;
+    background-image: linear-gradient(90deg, rgba(8, 8, 8, 0.849) 95%,rgba(255, 136, 0, 0.801) 5%);
+    letter-spacing: 2px;
+}
+
+#carousaldes2{
+    color: black;
+    background:blanchedalmond;
+    font-weight: 400;
+    border-style: groove;
+    border-width: .15em;
+    border-radius: 20px;
+    border-color: rgb(243, 65, 1);
+} 
+
+/* kasaragod */
+
+.headkasaragod{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textkasaragod{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.deskasaragod{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtkasa img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+    /* end kasaragod */
+
+    /* Idukki */
+
+.headidukki{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textidukki{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.desidukki{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtidu img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -225px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+    /* end Idukki */
+
+/* Ernakulam */
+
+.headkochi{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textkochi{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.deskochi{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtkoc img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end ernakulam */
+
+/* Palakkad */
+
+.headpalakkad{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textpalakkad{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.despalakkad{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtpal img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end palakkad */
+
+  /* kollam */
+
+.headkollam{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textkollam{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.deskollam{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtkol img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end kollam */
+
+
+    /* kollam */
+
+.headkottayam{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textkottayam{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.deskottayam{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtkot img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end kollam */
+
+      /* trivandrum */
+
+.headtrivandrum{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.texttrivandrum{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.destrivandrum{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districttri img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end trivandrum */
+
+
+
+  /* Waayanad */
+.headwayanad{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textwayanad{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.deswayanad{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtway img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end wayanad */
+
+    /* Malappuram */
+.headmalappuram{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textmalappuram{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 4px;
+    padding-right: 880px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.desmalappuram{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtmal img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end malappuram */
+
+
+      /* Thrissur */
+.headthrissur{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textthrissur{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.desthrissur{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtthr img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end thrissur */
+
+        /* pathanamthitta */
+.headpathanamthitta{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textpathanamthitta{
+    font-size: 50px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 4px;
+    padding-right: 860px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -40px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+}
+.despathanamthitta{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtpat img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end pathanamthitta */
+
+
+          /* kannur*/
+
+.headkannur{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textkannur{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+    
+}
+.deskannur{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtkan img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end kannur */
+
+            /* kozhikode*/
+
+.headkozhikode{
+    text-align: center;
+    color: cornsilk;
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(29, 27, 27, 0.863) 95%,white 5%) ;
+    
+}
+
+.textkozhikode{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+    
+}
+.deskozhikode{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtkoz img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+/* .line{
+    border-left: 4px solid white;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    top: 125px;
+    transform: rotateZ(45deg); */
+
+  /* end kozhikode */
+
+
+  
+            /* About Us*/
+
+.headaboutus{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    background-image: linear-gradient(rgba(255, 253, 253, 0.863) 95%,white 5%) ;
+    
+}
+
+.textaboutus{
+    font-size: 60px;
+    font-family:'ABeeZee', sans-serif;
+    letter-spacing: 5px;
+    padding-right: 900px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-reflect: below -49px linear-gradient(transparent,rgba(0,0,0,.2));
+    animation: animate 10s ease-in-out;
+    
+    
+    
+}
+.desaboutus{
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.districtabo img{
+    border-style:hidden;
+    border-radius: 50px;
+    border-width: .15em;
+    
+}
+
+.lineus{
+    border-left: 4px solid rgb(0, 0, 0);
+    height: 250px;
+    position: absolute;
+    left: 50%;
+    margin-left: -220px;
+    top: 175px;
+    transform: rotateZ(0deg);
+
+  /* end about us */
+
+
+}
+.myMargin{
+    margin: 20px;
+}
